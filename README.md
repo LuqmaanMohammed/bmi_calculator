@@ -41,6 +41,6 @@ Contributions are welcome! If you'd like to enhance the BMI Calculator app, plea
 
 **Contact:**
 
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us. You can contact the project team at your-m.a.luqmaan2514@gmail.com.
+If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us. You can contact the project team at m.a.luqmaan2514@gmail.com.
 
 We hope you find the BMI Calculator app helpful in your journey toward a healthier lifestyle!
